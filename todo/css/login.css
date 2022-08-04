@@ -1,0 +1,22 @@
+body {
+  background-image: url(../image/swan.jpg);
+  text-align: center;
+  color: #fff;
+}
+
+.container {
+  background: url(../image/swan.jpg);
+  margin-top: 150px;
+}
+
+.container h1 {
+  font-size: 2.5em;
+}
+
+.btn {
+  width: 300px;
+  height: 50px;
+  margin-top: 70px;
+}
+
+
