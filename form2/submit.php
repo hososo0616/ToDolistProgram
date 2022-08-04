@@ -7,6 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-  
+  <?php echo $_POST['message'] ?>
 </body>
-</html>m
+</html>

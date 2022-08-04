@@ -1,0 +1,44 @@
+.container {
+  width: 490px;
+  height: auto;
+  background-color: antiquewhite;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding-left: 10px;
+}
+
+.container h1 {
+  font-weight: bold;
+  font-size: 1.5em;
+  padding-top: 10px;
+}
+
+.container dl {
+  margin-top: 20px;
+}
+
+.container dl dt {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.container dl dd {
+  margin-top: 20px;
+}
+
+.container .w300 {
+  width: 300px;
+}
+
+.container .flex {
+  display: flex;
+}
+
+.container .h100 {
+  height: 100px;
+}
+
+.container .btn {
+  margin-top: 20px;
+}
